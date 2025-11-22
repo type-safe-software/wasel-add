@@ -1,10 +1,11 @@
 <script setup lang="ts">
 useSeoMeta({
   title: "Wasel Add | Advertising & Marketing",
-  ogTitle: "Your Message, Delivered",
+  ogTitle: "Wasel Add | Advertising & Marketing",
   description: "Your Message, Delivered",
   ogDescription: "Your Message, Delivered",
-  ogImage: "/images/wasel-add-logo.svg",
+  ogImage:
+    "https://www.facebook.com/photo/?fbid=122099444655048453&set=a.122099442045048453",
   twitterCard: "summary_large_image",
 });
 </script>
