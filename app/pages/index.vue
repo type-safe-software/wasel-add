@@ -1,7 +1,18 @@
+<script setup lang="ts">
+useSeoMeta({
+  title: "Wasel Add | Advertising & Marketing",
+  ogTitle: "Your Message, Delivered",
+  description: "Your Message, Delivered",
+  ogDescription: "Your Message, Delivered",
+  ogImage: "/images/wasel-add-logo.svg",
+  twitterCard: "summary_large_image",
+});
+</script>
+
 <template>
   <section class="h-full">
     <div class="flex justify-center items-center h-full flex-col text-primary">
-      <img src="/images/wasel-add-logo.svg" alt="Discover Nuxt" />
+      <img src="/images/wasel-add-logo.svg" alt="Wasel Add Logo" />
       <h1 class="x font-black text-2xl text-center mb-5 lg:text-4xl">
         Wasel Add is coming soon
       </h1>
